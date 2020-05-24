@@ -1,0 +1,11 @@
+img {
+  float: right;
+  height: 100px;
+  width: 100px;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
