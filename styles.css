@@ -2,9 +2,13 @@ img {
   float: right;
   height: 100px;
   width: 100px;
+  padding: 20px;
 }
 
 .sidebar {
+  margin: 20px;
+  border: 2px solid green;
+  padding: 8px;
   width: 30%;
   float: left;
   background-color: yellow;
